@@ -1,9 +1,14 @@
 # Awesome VR
 A curated list of articles, videos, and more on VR.
 
+- [Awesome VR](#awesome-vr)
+	- [Best Practices](#best-practices)
+	- [Design](#design)
+	- [Future of VR](#future-of-vr)
+	
 
 
-**Best Practices**
+##Best Practices
 
 [Oculus Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/)
 
@@ -13,7 +18,7 @@ A curated list of articles, videos, and more on VR.
 
 
 
-**Design**
+##Design
 
 [Mike Alger - VR Interface Design Pre-Visualisation Methods](https://vimeo.com/141330081)
 
@@ -23,6 +28,6 @@ A curated list of articles, videos, and more on VR.
 
 
 
-**Future of VR**
+##Future of VR
 
 [a16z: The Present State and Future Possibility of Virtual Reality](https://overcast.fm/+BlzGapn4Y)
