@@ -1,3 +1,7 @@
+# Awesome VR
+A curated list of articles, videos, and more on VR.
+
+
 
 **Best Practices**
 
@@ -6,8 +10,19 @@
 [Google Cardboard Best Practices](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html#)
 
 
+
+
+
 **Design**
 
 [Mike Alger - VR Interface Design Pre-Visualisation Methods](https://vimeo.com/141330081)
 
 [Mike Alger - VR Interface Design Manifesto](https://vimeo.com/116101132)
+
+
+
+
+
+**Future of VR**
+
+[a16z: The Present State and Future Possibility of Virtual Reality](https://overcast.fm/+BlzGapn4Y)
