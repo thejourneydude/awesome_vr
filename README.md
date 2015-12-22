@@ -24,6 +24,8 @@ A curated list of articles, videos, and more on VR.
 
 [Mike Alger - VR Interface Design Manifesto](https://vimeo.com/116101132)
 
+[Dan Gilmore of Develop - Designing UI For VR: Develop 2015](https://www.youtube.com/watch?v=4lRhTPQroi0)
+
 
 
 
@@ -31,4 +33,5 @@ A curated list of articles, videos, and more on VR.
 ##Future of VR
 
 [a16z: The Present State and Future Possibility of Virtual Reality](https://overcast.fm/+BlzGapn4Y)  
+
 [Jesse Schell - Lessons From Game Design](https://vimeo.com/142191776)
