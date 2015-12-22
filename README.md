@@ -30,4 +30,5 @@ A curated list of articles, videos, and more on VR.
 
 ##Future of VR
 
-[a16z: The Present State and Future Possibility of Virtual Reality](https://overcast.fm/+BlzGapn4Y)
+[a16z: The Present State and Future Possibility of Virtual Reality](https://overcast.fm/+BlzGapn4Y)  
+[Jesse Schell - Lessons From Game Design](https://vimeo.com/142191776)
