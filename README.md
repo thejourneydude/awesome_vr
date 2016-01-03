@@ -33,7 +33,7 @@ A curated list of articles, videos, and more on VR.
 
 [From Product Design to Virtual Reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.35inq8qh3) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/From-Product-Design-To-Virtual-Reality.txt)
 
-[Immersive Design - Learning to Let Go of the Screen](https://medium.com/backchannel/immersive-design-76499204d5f6#.h7myyf7az) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Immersive-Design-Learning-To-Let-Go-Of-The-Screen.txt)
+[Immersive Design - Learning to Let Go of the Screen](https://medium.com/backchannel/immersive-design-76499204d5f6#.h7myyf7az) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Immersive-Design-Learning-To-Let-Go-Of-The-Screen.txt))
 
 [Google I/O 2015 - Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU)
 
