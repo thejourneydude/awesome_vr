@@ -40,7 +40,7 @@ A curated list of articles, videos, and more on VR.
 
 [The Fundamentals of User Experience in Virtual Reality](http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality)
 
-[READY FOR UX IN 3D?](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d)
+[Ready For UX In 3D?](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d)
 
 ##Future of VR
 
