@@ -2,15 +2,12 @@
 A curated list of articles, videos, and more on VR.
 
 - [Awesome VR](#awesome-vr)
-	- [History](#history)
 	- [Best Practices](#best-practices)
 	- [Design And UX](#design-and-ux)
 	- [Future of VR](#future-of-vr)
+	- [History](#history)
 	- [Tech](#tech)
 
-## History
-
-[Seeing Is Believing: The State of Virtual Reality](http://www.theverge.com/a/virtual-reality/intro) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
 
 ##Best Practices
 
@@ -52,6 +49,11 @@ A curated list of articles, videos, and more on VR.
 [Jesse Schell - Lessons From Game Design](https://vimeo.com/142191776)
 
 [Virtual Reality Predictions For 2016 & Beyond](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.txt))
+
+
+## History
+
+[Seeing Is Believing: The State of Virtual Reality](http://www.theverge.com/a/virtual-reality/intro) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
 
 ##Tech
 
