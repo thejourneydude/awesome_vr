@@ -10,7 +10,7 @@ A curated list of articles, videos, and more on VR.
 
 ## History
 
-[Seeing Is Believing: The State of Virtual Reality](http://www.theverge.com/a/virtual-reality/intro) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt)
+[Seeing Is Believing: The State of Virtual Reality](http://www.theverge.com/a/virtual-reality/intro) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
 
 ##Best Practices
 
@@ -29,9 +29,9 @@ A curated list of articles, videos, and more on VR.
 
 [Dan Gilmore of Develop - Designing UI For VR: Develop 2015](https://www.youtube.com/watch?v=4lRhTPQroi0)
 
-[Designing For Virtual Reality](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Designing-For-Virtual-Reality.txt)
+[Designing For Virtual Reality](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Designing-For-Virtual-Reality.txt))
 
-[From Product Design to Virtual Reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.35inq8qh3) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/From-Product-Design-To-Virtual-Reality.txt)
+[From Product Design to Virtual Reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.35inq8qh3) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/From-Product-Design-To-Virtual-Reality.txt))
 
 [Immersive Design - Learning to Let Go of the Screen](https://medium.com/backchannel/immersive-design-76499204d5f6#.h7myyf7az) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Immersive-Design-Learning-To-Let-Go-Of-The-Screen.txt))
 
@@ -51,7 +51,7 @@ A curated list of articles, videos, and more on VR.
 
 [Jesse Schell - Lessons From Game Design](https://vimeo.com/142191776)
 
-[Virtual Reality Predictions For 2016 & Beyond](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb) - [Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.txt)
+[Virtual Reality Predictions For 2016 & Beyond](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb) - ([Notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.txt))
 
 ##Tech
 
