@@ -74,13 +74,13 @@ Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.
 
 ## Keynotes
 
-Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)(starts at 00:33:15)
+Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (starts at 00:33:15)
 
 ## Tools
 
 
 Unity - [link](https://unity3d.com)
 
-Blender - [link](https://www.blender.org/)
-
 Unreal Engine - [link](https://www.unrealengine.com)
+
+Blender - [link](https://www.blender.org/)
