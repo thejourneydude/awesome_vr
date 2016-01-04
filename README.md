@@ -33,11 +33,11 @@ Mike Alger - VR Interface Design Manifesto - [link](https://vimeo.com/116101132)
 
 Dan Gilmore of Develop - Designing UI For VR: Develop 2015 - [link](https://www.youtube.com/watch?v=4lRhTPQroi0)
 
-Designing For Virtual Reality - ([link](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Designing-For-Virtual-Reality.txt))
+Designing For Virtual Reality - ([link](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Designing-For-Virtual-Reality.md))
 
-From Product Design to Virtual Reality - ([link](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.35inq8qh3),  [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/From-Product-Design-To-Virtual-Reality.txt))
+From Product Design to Virtual Reality - ([link](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.35inq8qh3),  [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/From-Product-Design-To-Virtual-Reality.md))
 
-Immersive Design - Learning to Let Go of the Screen - ([link](https://medium.com/backchannel/immersive-design-76499204d5f6#.h7myyf7az) , [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Immersive-Design-Learning-To-Let-Go-Of-The-Screen.txt))
+Immersive Design - Learning to Let Go of the Screen - ([link](https://medium.com/backchannel/immersive-design-76499204d5f6#.h7myyf7az) , [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Immersive-Design-Learning-To-Let-Go-Of-The-Screen.md))
 
 Google I/O 2015 - Designing for virtual reality - [link](https://youtu.be/Qwh1LBzz3AU)
 
@@ -65,12 +65,12 @@ a16z: The Present State and Future Possibility of Virtual Reality - [link](https
 
 Jesse Schell - Lessons From Game Design - [link](https://vimeo.com/142191776)
 
-Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.txt))
+Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.md))
 
 
 ## History
 
-Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
+Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.md))
 
 ## Keynotes
 
