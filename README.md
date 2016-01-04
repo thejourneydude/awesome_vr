@@ -2,16 +2,23 @@
 A curated list of articles, videos, and more on VR.
 
 - [Awesome VR](#awesome-vr)
+	- [Audio](#audio)
 	- [Best Practices](#best-practices)
 	- [Design And UX](#design-and-ux)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
-	- [Tech](#tech)
+	- [Frameworks/Libraries](#frameworks-and-libraries)
 
+
+## Audio
+
+2014 Oculus Connect - Introduction to Audio in VR - [link](https://www.youtube.com/watch?v=X6wSEMh8nR8&feature=youtu.be)
 
 ##Best Practices
 
 Oculus Best Practices - [link](https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/)
+
+Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)
 
 Google Cardboard Best Practices -  [link](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html#)
 
@@ -55,10 +62,20 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
 
-##Tech
+##Frameworks And Libraries
+
+A-Frame - HTML Framework For Creating Web VR Experiences([link](https://aframe.io/))
 
 A Journey To Virtual Reality With React - [link](https://medium.com/@clayallsopp/a-journey-to-virtual-reality-with-react-6e3b86140a63#.rvps81eev)
 
-2014 Oculus Connect - Introduction to Audio in VR - [link](https://www.youtube.com/watch?v=X6wSEMh8nR8&feature=youtu.be)
+Primose - HTML/JS Framework for Web VR - [link](http://www.primrosevr.com/)
 
-Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)
+
+## Tools
+
+
+Unity - [link](https://unity3d.com)
+
+Blender - [link](https://www.blender.org/)
+
+Unreal Engine - [link](https://www.unrealengine.com)
