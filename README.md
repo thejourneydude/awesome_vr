@@ -4,8 +4,8 @@ A curated list of articles, videos, and more on VR.
 - [Awesome VR](#awesome-vr)
 	- [Audio](#audio)
 	- [Best Practices](#best-practices)
-	- [Design And UX](#design-and-ux)
-	- [Frameworks/Libraries](#frameworks-and-libraries)
+	- [Design and UX](#design-and-ux)
+	- [Frameworks and Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
 	- [Keynotes](#keynotes)
@@ -25,7 +25,7 @@ Google Cardboard Best Practices -  [link](https://www.google.com/design/spec-vr/
 Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 
-##Design And UX
+##Design and UX
 
 Mike Alger - VR Interface Design Pre-Visualisation Methods- [link](https://vimeo.com/141330081)
 
@@ -50,7 +50,7 @@ The Fundamentals of User Experience in Virtual Reality - [link](http://www.block
 Ready For UX In 3D? - [link](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d)
 
 
-##Frameworks And Libraries
+##Frameworks and Libraries
 
 A-Frame - HTML Framework For Creating Web VR Experiences - [link](https://aframe.io/)
 
