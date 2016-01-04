@@ -19,7 +19,7 @@ A curated list of articles, videos, and more on VR.
 
 Oculus Best Practices - [link](https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/)
 
-Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)
+Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)(Conference starts at 00:33:15)
 
 Google Cardboard Best Practices -  [link](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html#)
 
