@@ -5,9 +5,9 @@ A curated list of articles, videos, and more on VR.
 	- [Audio](#audio)
 	- [Best Practices](#best-practices)
 	- [Design And UX](#design-and-ux)
+	- [Frameworks/Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
-	- [Frameworks/Libraries](#frameworks-and-libraries)
 	- [Tools](#tools)
 
 
@@ -50,6 +50,16 @@ The Fundamentals of User Experience in Virtual Reality - [link](http://www.block
 
 Ready For UX In 3D? - [link](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d)
 
+
+##Frameworks And Libraries
+
+A-Frame - HTML Framework For Creating Web VR Experiences - [link](https://aframe.io/)
+
+A Journey To Virtual Reality With React - [link](https://medium.com/@clayallsopp/a-journey-to-virtual-reality-with-react-6e3b86140a63#.rvps81eev)
+
+Primose - HTML/JS Framework for Web VR - [link](http://www.primrosevr.com/)
+
+
 ##Future of VR
 
 a16z: The Present State and Future Possibility of Virtual Reality - [link](https://overcast.fm/+BlzGapn4Y)  
@@ -62,14 +72,6 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 ## History
 
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
-
-##Frameworks And Libraries
-
-A-Frame - HTML Framework For Creating Web VR Experiences([link](https://aframe.io/))
-
-A Journey To Virtual Reality With React - [link](https://medium.com/@clayallsopp/a-journey-to-virtual-reality-with-react-6e3b86140a63#.rvps81eev)
-
-Primose - HTML/JS Framework for Web VR - [link](http://www.primrosevr.com/)
 
 
 ## Tools
