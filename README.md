@@ -8,6 +8,7 @@ A curated list of articles, videos, and more on VR.
 	- [Frameworks/Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
+	- [Keynotes](#keynotes)
 	- [Tools](#tools)
 
 
@@ -18,8 +19,6 @@ A curated list of articles, videos, and more on VR.
 ##Best Practices
 
 Oculus Best Practices - [link](https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/)
-
-Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)(Conference starts at 00:33:15)
 
 Google Cardboard Best Practices -  [link](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html#)
 
@@ -73,6 +72,9 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.txt))
 
+## Keynotes
+
+Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854)(starts at 00:33:15)
 
 ## Tools
 
