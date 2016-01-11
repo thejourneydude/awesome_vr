@@ -78,6 +78,8 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.md))
 
+A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/kickstarter/a-brief-history-of-oculus-from-day-zero-to-day-one-8878aae002f8#.wu4u38ewe)
+
 ## Keynotes
 
 Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (starts at 00:33:15)
