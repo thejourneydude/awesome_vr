@@ -1,5 +1,5 @@
 # Awesome VR
-A curated list of articles, videos, and more on VR.
+A curated list of articles, videos, and more on VR for developers/designers. Updated every weekend!!!
 
 - [Awesome VR](#awesome-vr)
 	- [Audio](#audio)
@@ -9,6 +9,7 @@ A curated list of articles, videos, and more on VR.
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
 	- [Keynotes](#keynotes)
+	- [Tech](#tech)
 	- [Tools](#tools)
 
 
@@ -49,6 +50,9 @@ The Fundamentals of User Experience in Virtual Reality - [link](http://www.block
 
 Ready For UX In 3D? - [link](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d)
 
+Taking Motion Control Ergonomics Beyond Minority Report - [link](http://blog.leapmotion.com/taking-motion-control-ergonomics-beyond-minority-report/)
+
+Build-a-Button Workshop: VR Interaction Design from the Ground Up - [link](http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/)
 
 ##Frameworks and Libraries
 
@@ -57,6 +61,8 @@ A-Frame - HTML Framework For Creating Web VR Experiences - [link](https://aframe
 A Journey To Virtual Reality With React - [link](https://medium.com/@clayallsopp/a-journey-to-virtual-reality-with-react-6e3b86140a63#.rvps81eev)
 
 Primose - HTML/JS Framework for Web VR - [link](http://www.primrosevr.com/)
+
+three.js - [link](http://threejs.org/)
 
 
 ##Future of VR
@@ -72,9 +78,15 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.md))
 
+A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/kickstarter/a-brief-history-of-oculus-from-day-zero-to-day-one-8878aae002f8#.wu4u38ewe)
+
 ## Keynotes
 
 Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (starts at 00:33:15)
+
+## Tech
+
+Projection Properties of and Scale Issues with Oculus Rift - [link](https://www.youtube.com/watch?v=lsKuGUYXHa4)
 
 ## Tools
 
