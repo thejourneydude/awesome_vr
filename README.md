@@ -9,7 +9,7 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Frameworks and Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
-	- [Human Physiology, the Body, and VR](#human-physiology,-the-body,-and-vr)
+	- [Human Physiology, the Body, and VR](#human-physiology-the-body-and-vr)
 	- [Keynotes](#keynotes)
 	- [Tech](#tech)
 	- [Tools](#tools)
