@@ -9,10 +9,10 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Frameworks and Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
+	- [Human Physiology, the Body, and VR](#human-physiology,-the-body,-and-vr)
 	- [Keynotes](#keynotes)
 	- [Tech](#tech)
 	- [Tools](#tools)
-
 
 ## Audio
 
@@ -86,6 +86,11 @@ Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shaw
 Seeing Is Believing: The State of Virtual Reality - ([link](http://www.theverge.com/a/virtual-reality/intro), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Seeing-Is-Believing-The-State-Of-Virtual-Reality.md))
 
 A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/kickstarter/a-brief-history-of-oculus-from-day-zero-to-day-one-8878aae002f8#.wu4u38ewe)
+
+## Human Physiology, the Body, and VR
+
+Samsung Developer Conference - The Human Perceptual System in Virtual Reality
+ - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
 
 ## Keynotes
 
