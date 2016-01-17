@@ -98,3 +98,5 @@ Unity - [link](https://unity3d.com)
 Unreal Engine - [link](https://www.unrealengine.com)
 
 Blender - [link](https://www.blender.org/)
+
+Adobe After Effects = [link](http://www.adobe.com/products/aftereffects.html)
