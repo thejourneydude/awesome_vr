@@ -89,8 +89,7 @@ A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/
 
 ## Human Physiology, the Body, and VR
 
-Samsung Developer Conference - The Human Perceptual System in Virtual Reality
- - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
+Samsung Developer Conference - The Human Perceptual System in Virtual Reality - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
 
 ## Keynotes
 
