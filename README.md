@@ -99,16 +99,12 @@ Samsung Developer Conference - The Human Perceptual System in Virtual Reality - 
 
 The user is disabled: solving for physical limitations in VR - [link](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/)
 
-The critical problem with optical body and hand tracking in VR
-
-- [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
+The critical problem with optical body and hand tracking in VR - [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
 
 Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://www.vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
 
 ## Psychology
-Virtual gateways and event boundaries
-
- - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
+Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
 
 ## Keynotes
 
