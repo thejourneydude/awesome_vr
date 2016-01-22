@@ -125,5 +125,4 @@ Blender - [link](https://www.blender.org/)
 Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/aftereffects.html)
 
 ## Usability
-Conducting User Tests With an Oculus Rift
-- [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
+Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
