@@ -10,9 +10,11 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
 	- [Human Physiology, the Body, and VR](#human-physiology-the-body-and-vr)
+	- [Psychology](#psychology)
 	- [Keynotes](#keynotes)
 	- [Tech](#tech)
 	- [Tools](#tools)
+	- [Usability](#usability)
 
 ## Audio
 
@@ -57,6 +59,10 @@ Build-a-Button Workshop: VR Interaction Design from the Ground Up - [link](http:
 
 Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link](https://overcast.fm/+BnTpq6J7g)
 
+Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
+
+
+
 ## Development 
 
 Samsung  Developer Conference - VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://youtu.be/XjnHr_6WSqo)
@@ -91,6 +97,15 @@ A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/
 
 Samsung Developer Conference - The Human Perceptual System in Virtual Reality - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
 
+The user is disabled: solving for physical limitations in VR - [link](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/)
+
+The critical problem with optical body and hand tracking in VR - [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
+
+Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://www.vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
+
+## Psychology
+Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
+
 ## Keynotes
 
 Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (starts at 00:33:15)
@@ -101,7 +116,6 @@ Projection Properties of and Scale Issues with Oculus Rift - [link](https://www.
 
 ## Tools
 
-
 Unity - [link](https://unity3d.com)
 
 Unreal Engine - [link](https://www.unrealengine.com)
@@ -109,3 +123,6 @@ Unreal Engine - [link](https://www.unrealengine.com)
 Blender - [link](https://www.blender.org/)
 
 Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/aftereffects.html)
+
+## Usability
+Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
