@@ -61,8 +61,6 @@ Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link]
 
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
 
-
-
 ## Development 
 
 Samsung  Developer Conference - VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://youtu.be/XjnHr_6WSqo)
@@ -102,6 +100,8 @@ The user is disabled: solving for physical limitations in VR - [link](http://vri
 The critical problem with optical body and hand tracking in VR - [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
 
 Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://www.vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
+
+Testing In VR - [link](http://www.properqa.com/#!vr-testing/c69b)
 
 ## Psychology
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
