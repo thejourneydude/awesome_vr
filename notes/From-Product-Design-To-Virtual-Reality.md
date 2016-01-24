@@ -62,10 +62,9 @@
 
 - Understand, identify, build and iterate. Over and over.
 
-
-- Recommendations to check out:
-  - https://youtu.be/Qwh1LBzz3AU
-  - http://www.twitch.tv/oculus
+#### Recommendations to check out:
+  1. https://youtu.be/Qwh1LBzz3AU
+  2. http://www.twitch.tv/oculus
   - https://youtu.be/XjnHr_6WSqo
   - https://youtu.be/id86HeV-Vb8
   - https://youtu.be/X6wSEMh8nR8
