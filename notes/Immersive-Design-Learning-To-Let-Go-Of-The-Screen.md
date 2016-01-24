@@ -1,21 +1,20 @@
-Notes from thejourneydude:
+#### Notes from thejourneydude:
 
 
-- think like a human
-    - This approach(being a change from users seeing the savannah to one of looking at a screen) allows for a high level of information density and multitasking. The down-side is that new interaction models need to be learned and there is a higher cognitive load to decision making.
-	-
-    - I suspect that the older, instinctual danger or reward cues (sensory) are easier for us to pick up on.
-    - For example, if you’re in a VR landscape and there is a pit on one side of you and a flat road on the other, you will take the road — even though there is no real danger. Now let’s say there is a sign for a pit and a sign for a road. It takes time to read and comprehend the sign (cognitive load) and as we know people don’t tend to read much, so about half will head towards the pit and the rest will take the road.
-    - it seems that the author is making a point that because we are now in our own virtual world, we can create our own savannah, without having to use signs. another way of thinking about it, if you want an user to avoid entering a room, place a hungry tiger inside it.
+- Think like a human
+  - This approach (being a change from users seeing the savannah to one of looking at a screen) allows for a high level of information density and multitasking. The down-side is that new interaction models need to be learned and there is a higher cognitive load to decision making.
+  - I suspect that the older, instinctual danger or reward cues (sensory) are easier for us to pick up on.
+  - For example, if you’re in a VR landscape and there is a pit on one side of you and a flat road on the other, you will take the road — even though there is no real danger. Now let’s say there is a sign for a pit and a sign for a road. It takes time to read and comprehend the sign (cognitive load) and as we know people don’t tend to read much, so about half will head towards the pit and the rest will take the road.
+  - It seems that the author is making a point that because we are now in our own virtual world, we can create our own savannah, without having to use signs. Another way of thinking about it, if you want an user to avoid entering a room, place a hungry tiger inside it.
 
-- Use perspective to your advantage
-    -  size is based on the distance between the user and a piece of content
-    - content can be treated a couple of ways
-        - as a heads-up display, locking it to a set distance from the viewer
-        - it can be locked to the environment, so the user’s view of the content changes as they move through the environment
-        - it can float free, locked to the world
-- look around
-    -  we are designed so that we have a focus point of view when looking at something, and then to the side its a peripheral point of view. This is termed as the cone-of focus.
+- Use perspective to your advantage:
+  - size is based on the distance between the user and a piece of content.
+  - content can be treated a couple of ways.
+    - as a heads-up display, locking it to a set distance from the viewer.
+    - it can be locked to the environment, so the user’s view of the content changes as they move through the environment.
+    - it can float free, locked to the world.
+- Look around
+    -  we are designed so that we have a focus point of view when looking at something, and then to the side its a peripheral point of view. This is termed as the Cone Of Focus.
     - ways to solve the cone-of focus: from worst to best
         - flat: common solution: The interface is skinned for the 3D space. It’s difficult to read text or images in perspective. There is no sense of grounding in the space. It’s a wall.
         - Curved: Marginally better: The content is curved around the user, so the tiles always face the user — making it much easier to read text or images.
