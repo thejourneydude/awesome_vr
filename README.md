@@ -84,6 +84,7 @@ Jesse Schell - Lessons From Game Design - [link](https://vimeo.com/142191776)
 
 Virtual Reality Predictions For 2016 & Beyond - ([link](https://medium.com/@shawnfromportland/virtual-reality-predictions-for-2016-beyond-c4d9adf9f13e#.m9exhgfvb), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual-Reality-Predictions-For-2016-%26-Beyond.md))
 
+Goldman Sachs Report on VR - [link](http://imgur.com/a/e13T5)
 
 ## History
 
