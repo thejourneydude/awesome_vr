@@ -40,7 +40,7 @@
 
 Recommendations to check out:
   1. https://en.wikipedia.org/wiki/Cognitive_load
-  2. usabilityfirst.com
+  2. https://www.usabilityfirst.com
   - http://www.amazon.com/Landscape-And-Memory-Simon-Schama/dp/0679735127
   - http://www.computerhistory.org/revolution/input-output/14/356/1830
   - http://www.theverge.com/a/virtual-reality
