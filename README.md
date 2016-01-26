@@ -128,4 +128,5 @@ Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/afteref
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
 
 
+# License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
