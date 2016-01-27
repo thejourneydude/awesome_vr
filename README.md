@@ -124,6 +124,8 @@ Blender - [link](https://www.blender.org/)
 
 Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/aftereffects.html)
 
+Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
+
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
 
