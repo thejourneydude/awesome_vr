@@ -105,6 +105,8 @@ Testing In VR - [link](http://www.properqa.com/#!vr-testing/c69b)
 
 Standing vs. Seated: The VR Community Weight In - [link](http://www.blockinterval.com/project-updates/2015/9/30/standing-vs-seated-the-vr-community-weighs-in)
 
+2015 SVVR - Space To Think (Jody Medich) - [link](https://youtu.be/ziVoJaYwYNY)
+
 ## Psychology
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
 
