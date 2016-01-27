@@ -101,6 +101,8 @@ The critical problem with optical body and hand tracking in VR - [link](http://v
 
 Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://www.vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
 
+Why You Want (But Won't Like) A Minority Report-Style Interface - [link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/)
+
 Testing In VR - [link](http://www.properqa.com/#!vr-testing/c69b)
 
 Standing vs. Seated: The VR Community Weight In - [link](http://www.blockinterval.com/project-updates/2015/9/30/standing-vs-seated-the-vr-community-weighs-in)
