@@ -97,6 +97,8 @@ A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/
 
 ## Human Physiology, the Body, and VR
 
+Mike Alger - Designing VR for Humans - [link](https://www.youtube.com/watch?v=fEMDo-SBO1g&feature=youtu.be)
+
 Samsung Developer Conference - The Human Perceptual System in Virtual Reality - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
 
 The user is disabled: solving for physical limitations in VR - [link](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/)
