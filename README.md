@@ -31,6 +31,9 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+VRID: A Design Model and Methodology for Developing
+Virtual Reality Interfaces - [link](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf)
+
 Everything I Needed to Know About Good User Experience I Learned While Working in Restaurants - [link](https://www.nngroup.com/articles/ux-learn-in-restaurants/)
 
 Mike Alger - Visual Design Methods For VR - [link](http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf)
