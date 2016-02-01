@@ -115,6 +115,13 @@ Standing vs. Seated: The VR Community Weight In - [link](http://www.blockinterva
 
 2015 SVVR - Space To Think (Jody Medich) - [link](https://youtu.be/ziVoJaYwYNY)
 
+Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
+
+Resolving the Vergence-Accommodation
+Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/files/scholarly_papers/Kramidarev.pdf)
+
+Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
+
 ## Psychology
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
 
