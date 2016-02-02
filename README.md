@@ -61,7 +61,7 @@ Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link]
 
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
 
-## Development 
+## Development
 
 Samsung  Developer Conference - VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://youtu.be/XjnHr_6WSqo)
 
@@ -136,3 +136,6 @@ Conducting User Tests With an Oculus Rift - [link](https://www.twentymillisecond
 
 # License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+return if stem.nil? || answer.nil? || 	stem.question == answer.question
