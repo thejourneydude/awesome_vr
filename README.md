@@ -31,6 +31,13 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+VRID: A Design Model and Methodology for Developing
+Virtual Reality Interfaces - [link](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf)
+
+Everything I Needed to Know About Good User Experience I Learned While Working in Restaurants - [link](https://www.nngroup.com/articles/ux-learn-in-restaurants/)
+
+Mike Alger - Visual Design Methods For VR - [link](http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf)
+
 Mike Alger - VR Interface Design Pre-Visualisation Methods- [link](https://vimeo.com/141330081)
 
 Mike Alger - VR Interface Design Manifesto - [link](https://vimeo.com/116101132)
@@ -93,19 +100,28 @@ A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/
 
 ## Human Physiology, the Body, and VR
 
+Mike Alger - Designing VR for Humans - [link](https://www.youtube.com/watch?v=fEMDo-SBO1g&feature=youtu.be)
+
 Samsung Developer Conference - The Human Perceptual System in Virtual Reality - [link](https://www.youtube.com/watch?v=fx1oaRCGC1s)
 
 The user is disabled: solving for physical limitations in VR - [link](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/)
 
 The critical problem with optical body and hand tracking in VR - [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
 
-Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://www.vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
+Why You Want (But Won't Like) A Minority Report-Style Interface - [link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/)
 
 Testing In VR - [link](http://www.properqa.com/#!vr-testing/c69b)
 
 Standing vs. Seated: The VR Community Weight In - [link](http://www.blockinterval.com/project-updates/2015/9/30/standing-vs-seated-the-vr-community-weighs-in)
 
 2015 SVVR - Space To Think (Jody Medich) - [link](https://youtu.be/ziVoJaYwYNY)
+
+Vergence-accommodation conflict is a bitch—here’s how to design around it. - [link](http://vrinflux.com/vergence-accommodation-conflict-is-a-bitch-heres-how-to-design-around-it/)
+
+Resolving the Vergence-Accommodation
+Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/files/scholarly_papers/Kramidarev.pdf)
+
+Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
 
 ## Psychology
 Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
@@ -117,6 +133,8 @@ Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (st
 ## Tech
 
 Projection Properties of and Scale Issues with Oculus Rift - [link](https://www.youtube.com/watch?v=lsKuGUYXHa4)
+
+Magic Leap Plans (Date unknown) - [link](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/4296725/61845907_1_.0.pdf)
 
 ## Tools
 
