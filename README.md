@@ -33,7 +33,7 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 Why You Want (But Won't Like) A Minority Report-Stytle-Interface - ([link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/WHY%20YOU%20WANT%20(BUT%20WON%E2%80%99T%20LIKE)%20A%20MINORITY%20REPORT-STYLE%20INTERFACE.md))
 
-Lessons Learned at The Vive Game Jam - [link](https://www.youtube.com/watch?v=tQQPuZPWCN4), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Lessons%20Learned%20at%20The%20Vive%20Game%20Jam.md))
+Lessons Learned at The Vive Game Jam - ([link](https://www.youtube.com/watch?v=tQQPuZPWCN4), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Lessons%20Learned%20at%20The%20Vive%20Game%20Jam.md))
 
 VRID: A Design Model and Methodology for Developing
 Virtual Reality Interfaces - [link](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf)
