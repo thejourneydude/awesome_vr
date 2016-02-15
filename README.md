@@ -161,5 +161,3 @@ Conducting User Tests With an Oculus Rift - [link](https://www.twentymillisecond
 # License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-
-return if stem.nil? || answer.nil? || 	stem.question == answer.question
