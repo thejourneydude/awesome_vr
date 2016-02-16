@@ -5,7 +5,6 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Audio](#audio)
 	- [Best Practices](#best-practices)
 	- [Design and UX](#design-and-ux)
-	- [Development](#development)
 	- [Frameworks and Libraries](#frameworks-and-libraries)
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
@@ -67,10 +66,6 @@ Taking Motion Control Ergonomics Beyond Minority Report - ([link](http://blog.le
 Build-a-Button Workshop: VR Interaction Design from the Ground Up - ([link](http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Build-a-Button%20Workshop:%20VR%20Interaction%20Design%20from%20the%20Ground%20Up.md))
 
 Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link](https://overcast.fm/+BnTpq6J7g)
-
-## Development
-
-Samsung  Developer Conference - VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://youtu.be/XjnHr_6WSqo)
 
 ##Frameworks and Libraries
 
