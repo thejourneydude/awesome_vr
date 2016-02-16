@@ -130,7 +130,7 @@ Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/
 Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
 
 ## Psychology
-Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
+Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), (notes)[https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md])
 
 ## Keynotes
 
