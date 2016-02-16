@@ -30,8 +30,6 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
-Why You Want (But Won't Like) A Minority Report-Stytle-Interface - ([link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/WHY%20YOU%20WANT%20(BUT%20WON%E2%80%99T%20LIKE)%20A%20MINORITY%20REPORT-STYLE%20INTERFACE.md))
-
 Lessons Learned at The Vive Game Jam - ([link](https://www.youtube.com/watch?v=tQQPuZPWCN4), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Lessons%20Learned%20at%20The%20Vive%20Game%20Jam.md))
 
 VRID: A Design Model and Methodology for Developing
@@ -105,7 +103,7 @@ The user is disabled: solving for physical limitations in VR - ([link](http://vr
 
 The critical problem with optical body and hand tracking in VR - [link](http://vrinflux.com/the-critical-problem-with-optical-body-and-hand-tracking-in-vr/)
 
-Why You Want (But Won't Like) A Minority Report-Style Interface - [link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/)
+Why You Want (But Won't Like) A Minority Report-Stytle-Interface - ([link](http://www.kickerstudio.com/2010/11/why-you-want-but-wont-like-a-minority-report-style-interface/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/WHY%20YOU%20WANT%20(BUT%20WON%E2%80%99T%20LIKE)%20A%20MINORITY%20REPORT-STYLE%20INTERFACE.md))
 
 Testing In VR - ([link](http://www.properqa.com/#!vr-testing/c69b), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Testing%20In%20VR%20Has%20Unique%20Challenges.md))
 
