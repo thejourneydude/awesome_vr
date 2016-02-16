@@ -58,8 +58,6 @@ Google I/O 2015 - Designing for virtual reality - [link](https://youtu.be/Qwh1LB
 
 VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://www.youtube.com/watch?v=XjnHr_6WSqo&feature=youtu.be)
 
-VR Interface Design Pre-Visualisation Methods - [link](https://www.youtube.com/watch?v=id86HeV-Vb8&feature=youtu.be)
-
 The Fundamentals of User Experience in Virtual Reality - ([link](http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/The%20Fundamentals%20Of%20User%20Experience%20In%20Virtual%20Reality.md))
 
 Ready For UX In 3D? - ([link](http://www.blockinterval.com/project-updates/2015/10/27/ux-moves-to-3d), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Ready%20For%20UX%20In%203D.md))
