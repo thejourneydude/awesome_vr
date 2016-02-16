@@ -30,6 +30,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+A Short Discusson on Font Choice in VR - [link](https://www.reddit.com/r/oculus/comments/45w3am/vr_fonts/)
+
 Designing for VR: Environments and Interactions - [link](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions)
 
 Lessons Learned at The Vive Game Jam - ([link](https://www.youtube.com/watch?v=tQQPuZPWCN4), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Lessons%20Learned%20at%20The%20Vive%20Game%20Jam.md))
