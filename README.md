@@ -68,8 +68,6 @@ Build-a-Button Workshop: VR Interaction Design from the Ground Up - ([link](http
 
 Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link](https://overcast.fm/+BnTpq6J7g)
 
-Virtual gateways and event boundaries - [link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/)
-
 ## Development
 
 Samsung  Developer Conference - VR Design: Transitioning from a 2D to 3D Design Paradigm - [link](https://youtu.be/XjnHr_6WSqo)
