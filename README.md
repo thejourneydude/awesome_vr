@@ -37,6 +37,10 @@ A Short Discusson on Font Choice in VR - [link](https://www.reddit.com/r/oculus/
 
 Designing for VR: Environments and Interactions - [link](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions)
 
+
+Designing for VR: Input, Planning, and Testing - [link](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing?ocid=EntriesInArea)
+
+
 Lessons Learned at The Vive Game Jam - ([link](https://www.youtube.com/watch?v=tQQPuZPWCN4), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Lessons%20Learned%20at%20The%20Vive%20Game%20Jam.md))
 
 VRID: A Design Model and Methodology for Developing
