@@ -31,6 +31,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+UI/UX design for WebVR with Josh Carpenter - [link](https://www.youtube.com/watch?v=ZOaOYTOpwyM)
+
 A Short Discusson on Font Choice in VR - [link](https://www.reddit.com/r/oculus/comments/45w3am/vr_fonts/)
 
 Designing for VR: Environments and Interactions - [link](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions)
