@@ -36,6 +36,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+Buttons in virtual reality - a UI/UX design approach - [link](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach)
+
 UI/UX design for WebVR with Josh Carpenter - [link](https://www.youtube.com/watch?v=ZOaOYTOpwyM)
 
 A Short Discusson on Font Choice in VR - [link](https://www.reddit.com/r/oculus/comments/45w3am/vr_fonts/)
