@@ -2,6 +2,7 @@
 A curated list of articles, videos, and more on VR for developers/designers. Updated every weekend!!!
 
 - [Awesome VR](#awesome-vr)
+	- [AR](#ar)
 	- [Audio](#audio)
 	- [Best Practices](#best-practices)
 	- [Design and UX](#design-and-ux)
@@ -15,6 +16,10 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Tech](#tech)
 	- [Tools](#tools)
 	- [Usability](#usability)
+
+## AR
+
+Hololens Design Patterns - [link](http://www.hololensfocus.com/design-patterns-1/)
 
 ## Audio
 
