@@ -36,6 +36,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+Get started with VR: user experience design - [link](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/)
+
 Buttons in virtual reality - a UI/UX design approach - [link](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach)
 
 UI/UX design for WebVR with Josh Carpenter - [link](https://www.youtube.com/watch?v=ZOaOYTOpwyM)
