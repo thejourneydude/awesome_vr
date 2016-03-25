@@ -15,6 +15,7 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Keynotes](#keynotes)
 	- [Tech](#tech)
 	- [Tools](#tools)
+	- [Tutorials](#tutorials)
 	- [Usability](#usability)
 
 ## AR
@@ -35,6 +36,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 
 ##Design and UX
+
+Hovercast VR Menu: Behind the Design - (link)[http://blog.leapmotion.com/hovercast-vr-menu-behind-design]
 
 Get started with VR: user experience design - [link](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/)
 
@@ -99,6 +102,8 @@ A Journey To Virtual Reality With React - [link](https://medium.com/@clayallsopp
 Primose - HTML/JS Framework for Web VR - [link](http://www.primrosevr.com/)
 
 three.js - [link](http://threejs.org/)
+
+Hover VR Interface Kit - [link](https://github.com/aestheticinteractive/Hover-VR-Interface-Kit)
 
 
 ##Future of VR
@@ -169,6 +174,10 @@ Blender - [link](https://www.blender.org/)
 Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/aftereffects.html)
 
 Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
+
+## Tutorials
+
+DevUp: "VR Guitar" Development Updates - (link)[https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw]
 
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
