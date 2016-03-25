@@ -37,7 +37,7 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
-Hovercast VR Menu: Behind the Design - (link)[http://blog.leapmotion.com/hovercast-vr-menu-behind-design]
+Hovercast VR Menu: Behind the Design - [link](http://blog.leapmotion.com/hovercast-vr-menu-behind-design)
 
 Get started with VR: user experience design - [link](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/)
 
@@ -177,7 +177,7 @@ Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
 
 ## Tutorials
 
-DevUp: "VR Guitar" Development Updates - (link)[https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw]
+DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw])
 
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
