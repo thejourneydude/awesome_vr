@@ -88,6 +88,9 @@ Build-a-Button Workshop: VR Interaction Design from the Ground Up - ([link](http
 
 Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link](https://overcast.fm/+BnTpq6J7g)
 
+Building Better Worlds: Virtual Wearable Interfaces + More by David Holz (Leap Motion) - [link](https://youtu.be/kX5mMfhRjJo?t=32m20s)
+
+
 ##Film
 What I learned making my first VR journalism video - [link](https://medium.com/@tseymat/what-i-learned-making-my-first-vr-journalism-video-397ac1744b64#.5bfts4r2r)
 
@@ -150,6 +153,8 @@ Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/
 
 Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
 
+Focal Point VR - An Open-Source VR Interaction Framework for the HTC Vive and Unity by Albert Hwang - [link](http://www.albert-hwang.com/focal-point-vr)
+
 ## Psychology
 Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
 
@@ -185,4 +190,3 @@ Conducting User Tests With an Oculus Rift - [link](https://www.twentymillisecond
 
 # License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
