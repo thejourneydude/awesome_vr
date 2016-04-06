@@ -177,7 +177,7 @@ Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
 
 ## Tutorials
 
-DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw])
+DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw)
 
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
