@@ -123,6 +123,8 @@ A Brief History of Oculus, from Day Zero to Day One - [link](https://medium.com/
 
 ## Human Physiology, the Body, and VR
 
+AR / VR Teleportation Concepts By Albert Hwang - [link](http://www.albert-hwang.com/blog/2016/5/ar-teleportation-concepts)
+
 Locomotion in Virtual Reality - [link](https://www.youtube.com/watch?v=J8o71UycDa0)
 
 Virtual Gateways and Event Boundaries - ([link](https://github.com/thejourneydude/awesome_vr/blob/master/notes/2014%20Oculus%20Connect%20-%20Introduction%20to%20Audio%20in%20VR.md), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
