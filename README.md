@@ -158,7 +158,7 @@ Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/
 Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
 
 ## Misc
-Virtual Microscopy UI: Speculative Brainstorm and Prototype - [link](https://www.reddit.com/r/VRUI/comments/4jb9wy/virtual_microscopy_ui_speculative_brainstorm_and/)
+Virtual Microscopy UI: Speculative Brainstorm and Prototype - [link](http://www.microscopy-uk.org.uk/mag/indexmag.html?http://www.microscopy-uk.org.uk/mag/artmay16/js-photomicro-VR.html)
 
 ## Psychology
 Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
