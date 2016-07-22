@@ -11,6 +11,7 @@ A curated list of articles, videos, and more on VR for developers/designers. Upd
 	- [Future of VR](#future-of-vr)
 	- [History](#history)
 	- [Human Physiology, the Body, and VR](#human-physiology-the-body-and-vr)
+	- [Misc](#misc)
 	- [Psychology](#psychology)
 	- [Keynotes](#keynotes)
 	- [Tech](#tech)
@@ -36,6 +37,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 
 ##Design and UX
+
+Building 3D Dimensional UI For VR - [link](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for)
 
 Hovercast VR Menu: Behind the Design - [link](http://blog.leapmotion.com/hovercast-vr-menu-behind-design)
 
@@ -127,6 +130,8 @@ AR / VR Teleportation Concepts By Albert Hwang - [link](http://www.albert-hwang.
 
 Locomotion in Virtual Reality - [link](https://www.youtube.com/watch?v=J8o71UycDa0)
 
+Locomotion in VR: Overview of different locomotion methods on HTC Vive By Bumble - [link](https://www.youtube.com/watch?v=p0YxzgQG2-E)
+
 Virtual Gateways and Event Boundaries - ([link](https://github.com/thejourneydude/awesome_vr/blob/master/notes/2014%20Oculus%20Connect%20-%20Introduction%20to%20Audio%20in%20VR.md), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
 
 Mike Alger - Designing VR for Humans - [link](https://www.youtube.com/watch?v=fEMDo-SBO1g&feature=youtu.be)
@@ -151,6 +156,9 @@ Resolving the Vergence-Accommodation
 Conflict in Head Mounted Displays - [link](https://www.cs.umd.edu/sites/default/files/scholarly_papers/Kramidarev.pdf)
 
 Vergence–accommodation conflicts hinder visual performance and cause visual fatigue - [link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879326/)
+
+## Misc
+Virtual Microscopy UI: Speculative Brainstorm and Prototype - [link](https://www.reddit.com/r/VRUI/comments/4jb9wy/virtual_microscopy_ui_speculative_brainstorm_and/)
 
 ## Psychology
 Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
@@ -180,6 +188,8 @@ Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
 ## Tutorials
 
 DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw)
+
+Unity’s UI System in VR - [link](https://developer.oculus.com/blog/unitys-ui-system-in-vr/)
 
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
