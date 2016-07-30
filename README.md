@@ -94,6 +94,7 @@ Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link]
 ##Film
 What I learned making my first VR journalism video - [link](https://medium.com/@tseymat/what-i-learned-making-my-first-vr-journalism-video-397ac1744b64#.5bfts4r2r)
 
+The Swayze Effect - [link](https://storystudio.oculus.com/en-us/blog/the-swayze-effect/)
 
 First-person perspective cinematic virtual reality content — dos and dont’s - [link](https://medium.com/@ashokbania/first-person-perspective-cinematic-virtual-reality-content-dos-and-dont-s-f2c7b986302f#.xyvvv4y65)
 ##Frameworks and Libraries
