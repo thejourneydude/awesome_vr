@@ -38,6 +38,8 @@ Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap
 
 ##Design and UX
 
+Exploring Methods for Conveying Object Weight in Virtual Reality - [link](http://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/)
+
 Building 3D Dimensional UI For VR - [link](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for)
 
 Hovercast VR Menu: Behind the Design - [link](http://blog.leapmotion.com/hovercast-vr-menu-behind-design)
