@@ -111,6 +111,8 @@ three.js - [link](http://threejs.org/)
 
 Hover VR Interface Kit - [link](https://github.com/aestheticinteractive/Hover-VR-Interface-Kit)
 
+Vrui VR Toolkit - [link](http://idav.ucdavis.edu/~okreylos/ResDev/Vrui/)
+
 
 ##Future of VR
 
