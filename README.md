@@ -196,6 +196,8 @@ DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist
 
 Unity’s UI System in VR - [link](https://developer.oculus.com/blog/unitys-ui-system-in-vr/)
 
+Principles of VR with Unity Examples - [link](https://www.youtube.com/watch?v=fyspqEIuWyk)
+
 ## Usability
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
 
