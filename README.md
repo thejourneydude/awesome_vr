@@ -190,6 +190,8 @@ Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/afteref
 
 Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
 
+Yobi3D - Free 3D model search engine - [link](https://www.yobi3d.com/)
+
 ## Tutorials
 
 DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw)
