@@ -27,7 +27,7 @@ Hololens Design Patterns - [link](http://www.hololensfocus.com/design-patterns-1
 
 2014 Oculus Connect - Introduction to Audio in VR - ([link](https://www.youtube.com/watch?v=X6wSEMh8nR8&feature=youtu.be), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/2014%20Oculus%20Connect%20-%20Introduction%20to%20Audio%20in%20VR.md))
 
-##Best Practices
+## Best Practices
 
 Oculus Best Practices - [link](https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/)
 
@@ -36,7 +36,7 @@ Google Cardboard Best Practices -  [link](https://www.google.com/design/spec-vr/
 Leap Motion Best Practices - [link](https://developer.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 
-##Design and UX
+## Design and UX
 
 Exploring Methods for Conveying Object Weight in Virtual Reality - [link](http://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/)
 
@@ -93,13 +93,13 @@ Build-a-Button Workshop: VR Interaction Design from the Ground Up - ([link](http
 
 Voices of VR Podcast #276: VR Interface Design Insights from Mike Alger - [link](https://overcast.fm/+BnTpq6J7g)
 
-##Film
+## Film
 What I learned making my first VR journalism video - [link](https://medium.com/@tseymat/what-i-learned-making-my-first-vr-journalism-video-397ac1744b64#.5bfts4r2r)
 
 The Swayze Effect - [link](https://storystudio.oculus.com/en-us/blog/the-swayze-effect/)
 
 First-person perspective cinematic virtual reality content — dos and dont’s - [link](https://medium.com/@ashokbania/first-person-perspective-cinematic-virtual-reality-content-dos-and-dont-s-f2c7b986302f#.xyvvv4y65)
-##Frameworks and Libraries
+## Frameworks and Libraries
 
 A-Frame - HTML Framework For Creating Web VR Experiences - [link](https://aframe.io/)
 
@@ -114,7 +114,7 @@ Hover VR Interface Kit - [link](https://github.com/aestheticinteractive/Hover-VR
 Vrui VR Toolkit - [link](http://idav.ucdavis.edu/~okreylos/ResDev/Vrui/)
 
 
-##Future of VR
+## Future of VR
 
 a16z: The Present State and Future Possibility of Virtual Reality - [link](https://overcast.fm/+BlzGapn4Y)  
 
